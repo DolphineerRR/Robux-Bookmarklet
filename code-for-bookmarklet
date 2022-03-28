@@ -1,0 +1,3 @@
+var robux = prompt("How much Robux would you like?");
+var account = prompt("What is your username?\nYou will be adding " + robux + " Robux to the account you list below.");
+alert("You have added " + robux + " Robux to " + account + ".\nEnjoy your robux!\nDISCLAIMER: Due to limitations we can only send robux a week later so your Robux will be late! If it doesn't appear in your robux in a week then just reload the bookmarklet and do the process again.")
